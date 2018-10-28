@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="arrType">
+        <item>Bình thường</item>
+        <item>Vệ tinh</item>
+        <item>Địa hình</item>
+        <item>Tổng hợp</item>
+        <item></item>
+    </string-array>
+</resources>
